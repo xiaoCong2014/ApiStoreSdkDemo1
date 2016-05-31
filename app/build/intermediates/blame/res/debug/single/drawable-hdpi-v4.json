@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weathericon_condition_01.png",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_01.png"
+    }
+]

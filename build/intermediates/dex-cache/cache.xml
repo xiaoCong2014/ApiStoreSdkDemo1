@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.1_bf8af22e78a3e7de65955e1f02421868d9123deb.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.databinding\library\1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.1_23e909476eac99ddfe14bf11b8047c3137bc129f.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_539b437945a010fd06f739d5a113aab7462435a1.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\libs\android-support-v7-appcompat.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b69b7abb225c5d1ebf3bab999a276fab7ab8628c">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\android-support-v7-appcompat_969cb681ec7c6a02a3dc3251da83e116c7a2e664.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\gson-2.6.2_002b7fbf7a0de167c934ae8280ecce1c989b18df.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_f73ba44636aa8d1a421d44e7308e61a8edb7e701.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7c0018e9838fc8c654c6fa83a110c4600b46febd">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_5ce1877103ed5180d908621f25bc8cdd8ec56332.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="333941d15514dc32011ba2bf7d3e429cdabb1794">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f736417b29ddeb7880f0d4ab4c6149d7d4bf40fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4c0fa2b8567912597987fe200181a3176e7947c3">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\instant-run_517dcae0b549ae309040de5bcf69f3921dd10cf9.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\libs\ApiStoreSDK1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="34f3d73592ed95e6f6d5b7626ec5b335d5bf0c2c">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\ApiStoreSDK1.0.0_6e86fcc78d87fbbbf04261eb3b72a192997258f0.jar" />
+    </item>
+    <item
+        jar="L:\Sofeware\Android_uni\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_5f36dc487ba60655d361aa804cde90a648379689.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="33b27a8d2a5b87e6eb6c60e87a5374ffbfeacc3a">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\android-support-v4_c9c57db796bd2cd6a2ed3580d9612b4b41c3a5cf.jar" />
+    </item>
+    <item
+        jar="F:\Software\Android_Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.1.0\baseLibrary-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a7aeef173c4e5b104ec04f146f8e8f9debde1c5e">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\baseLibrary-2.1.0_d8d0f2acb29ecec150fef15b88870b29ec5589a8.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio\ApiStoreSdkDemo1\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cf398e35d4be3d538887f7fd9e5844af64cfe9db">
+        <dex dex="F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_aaed736f7142770f40814862344e1560acecff63.jar" />
+    </item>
+
+</items>

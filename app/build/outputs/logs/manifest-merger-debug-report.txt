@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:2:1-119:12
+	package
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:4:5-45
+application
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:8:5-91:19
+MERGED from [com.android.support:support-v4:21.0.3] F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:13:9-40
+activity#test.Test
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:label
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:17:13-38
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:16:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:20:27-74
+activity#mvvm.MVVM_Activity
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:24:9-31:20
+	android:label
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:25:13-46
+activity#api_store.API_Store_Activity
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:35:13-57
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:34:13-56
+activity#net.DefaultHttpClientActivity
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:42:9-49:20
+	android:label
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:43:13-57
+activity#com.baidu.apistore.sdk.MyLocation
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:51:9-58:20
+	android:label
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:53:13-62
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:52:13-61
+activity#com.baidu.apistore.sdk.SelectCity
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:60:9-64:20
+	android:label
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:62:13-62
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:61:13-61
+activity#com.baidu.apistore.sdk.MainActivity
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:75:9-82:20
+	android:label
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:76:13-63
+service#com.baidu.location.f
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:84:9-85:19
+	android:enabled
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:84:54-76
+	android:process
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:84:77-102
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:84:18-53
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:87:9-89:64
+	android:value
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:89:13-61
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:88:13-52
+uses-sdk
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:93:5-95:41
+MERGED from [com.android.databinding:library:1.1] F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.databinding\library\1.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:21.0.3] F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.databinding:adapters:1.1] F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.1] F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.databinding\library\1.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:21.0.3] F:\Android_Studio\ApiStoreSdkDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:95:9-38
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:94:9-35
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:97:5-75
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:97:22-72
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:98:5-67
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:98:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:99:5-79
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:99:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:100:5-76
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:100:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:102:5-97
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:102:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:104:5-95
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:104:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:110:5-92
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:110:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:114:5-97
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:114:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:118:5-100
+	android:name
+		ADDED from F:\Android_Studio\ApiStoreSdkDemo1\app\src\main\AndroidManifest.xml:118:22-81

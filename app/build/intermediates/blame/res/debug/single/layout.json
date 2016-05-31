@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mvvm.xml",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\layout\\mvvm.xml"
+    },
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_city.xml",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\layout\\select_city.xml"
+    },
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net.xml",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\layout\\net.xml"
+    },
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycle_view_activity.xml",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\layout\\recycle_view_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Android_Studio\\ApiStoreSdkDemo1\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
